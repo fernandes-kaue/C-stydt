@@ -2,7 +2,7 @@
 
 int main()
 {
-    char name[] = "mackenzie";
+    char name[] = "coringa";
     printf("what is your name?\n");
     printf("Hello, my name is %s", name);
 
